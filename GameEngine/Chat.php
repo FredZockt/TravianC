@@ -9,8 +9,6 @@
 ##                                                                             ##
 #################################################################################
 
-include('Database.php');
-
 if (!isset($SAJAX_INCLUDED)) {
 
 	$GLOBALS['sajax_version'] = '0.12';	
