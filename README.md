@@ -1,13 +1,13 @@
-# TravianC
+# TravianC #
 
-Project:       TravianC
-Filename:      README
-Developed by:  Dzoki and others
-Improved by:   ZZJHONS
-Improved by:   FredZockt
-License:       Creative Commons BY-NC-SA 3.0
-Copyright:     TravianC (c) 2018 - All rights reserved
-Source code:   https://github.com/FredZockt/TravianC
+Project:       TravianC<br/>
+Filename:      README<br/>
+Developed by:  Dzoki and others<br/>
+Improved by:   ZZJHONS<br/>
+Improved by:   FredZockt<br/>
+License:       Creative Commons BY-NC-SA 3.0<br/>
+Copyright:     TravianC (c) 2018 - All rights reserved<br/>
+Source code:   https://github.com/FredZockt/TravianC<br/>
 
 A new version of a clone for Travian, based on TravianX and ZravianX.
 
